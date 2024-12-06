@@ -1,6 +1,9 @@
-Below is the comprehensive set of materials for **Session 1: Python Philosophy & Environment Setup**.
-
----
+```bash
+# Run this command to create all required files for Session 1.
+touch print_message.py print_message_sol.py print_message_test.py \
+greet_user.py greet_user_sol.py greet_user_test.py \
+favorite_number.py favorite_number_sol.py favorite_number_test.py
+```
 
 ## 1. Explanations
 
