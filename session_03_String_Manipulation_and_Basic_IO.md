@@ -119,6 +119,7 @@ We will practice reading strings, slicing them, and formatting output. Each exer
 
 **Description:**  
 Read a single line of text from the user and extract specific slices:
+
 1. Extract the first 5 characters.
 2. Extract the last 3 characters.
 3. Extract every second character from the entire string.
@@ -226,6 +227,7 @@ if __name__ == "__main__":
 
 **Description:**  
 Prompt the user for a string. Print:
+
 1. The entire string in uppercase.
 2. The first half of the string (rounded down if odd length).
 3. A formatted message using f-strings, showing the length of the original string and the substring extracted.
@@ -236,6 +238,7 @@ abcdefghij
 ```
 
 **For `abcdefghij` (length 10):**
+
 - Entire uppercase: `ABCDEFGHIJ`
 - First half (length // 2 = 5 chars): `abcde`
 - Length: `10`
