@@ -58,6 +58,7 @@ fruits[1:3] = ["blueberry", "cranberry"] # replace slice
 ```
 
 **Common List Methods:**
+
 - `append(item)`: Add item to the end.
 - `insert(index, item)`: Insert item at given position.
 - `remove(item)`: Remove first occurrence of item.
@@ -156,7 +157,8 @@ We will practice creating, modifying, and using lists and tuples. Each exercise 
 
 ### Exercise 1: List Basics
 
-**Description:**  
+**Description:**
+
 1. Prompt the user for 3 items (e.g., fruits).
 2. Store them in a list.
 3. Print the entire list.
@@ -196,6 +198,7 @@ if __name__ == "__main__":
 ### Exercise 2: List Methods
 
 **Description:**  
+
 1. Start with a predefined list of integers: `[10, 5, 7]`.
 2. Append a user-provided number to the list.
 3. Remove the smallest number from the list.
@@ -233,7 +236,8 @@ if __name__ == "__main__":
 
 ### Exercise 3: Tuple Unpacking
 
-**Description:**  
+**Description:**
+
 1. Create a tuple with exactly 2 elements (e.g., `(42, "Answer")`).
 2. Unpack the tuple into two separate variables.
 3. Print both variables.
@@ -264,7 +268,8 @@ if __name__ == "__main__":
 
 ### Exercise 4: Combining Lists and Tuples
 
-**Description:**  
+**Description:**
+
 1. Prompt the user for 2 names.
 2. Prompt the user for 2 ages (integers).
 3. Create a list of two tuples: `[(name1, age1), (name2, age2)]`.
