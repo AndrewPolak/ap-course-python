@@ -497,14 +497,14 @@ mypackage/
     module_a.py
     module_b.py
 
-Usage in main.py:
-```python
+# Usage in main.py:
+
 import mypackage.module_a
 from mypackage import module_b
 ```
 
 `__init__.py` can be empty or import selected modules for convenience. If it imports `module_a` or `module_b`, then you can do `import mypackage` directly.
-```
+
 
 **session8_ex6_dir_structure_test.py** might just verify the file is present. We won’t show code for that test here.
 
