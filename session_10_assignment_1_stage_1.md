@@ -43,6 +43,7 @@ This approach allows an interactive session, where the user can type commands un
 ### **In-Memory Task Management**
 
 We’ll store tasks in a **Python list** (or dictionary if you prefer). For Stage 1:
+
 - **Add**: append a new task to the list (or check duplicates if you wish).
 - **Remove**: search for a matching task string and remove it if found.
 - **Optional**: list all tasks, or check if a task exists.
