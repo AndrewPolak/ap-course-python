@@ -112,7 +112,8 @@ or
 from mypackage import module_b
 ```
 
-**Why Packages?**  
+**Why Packages?** 
+ 
 - Helps logically group modules.
 - Avoids naming conflicts.
 
