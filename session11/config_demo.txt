@@ -1,0 +1,3 @@
+username=alice
+theme=dark
+timeout=30

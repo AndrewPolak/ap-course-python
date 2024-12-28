@@ -1,0 +1,5 @@
+apple banana orange
+line 2
+this is my line of text
+Appended to journal.txt
+another line

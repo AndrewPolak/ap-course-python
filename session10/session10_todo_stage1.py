@@ -24,7 +24,7 @@ def main():
         args = split_command[1].strip() if len(split_command) > 1 else ""
 
         if method == "add":
-            task_description = args
+            task = args
             if not task:
             # if task == "":
                 print("Usage: add <task_description>")
